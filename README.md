@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raahim-irfan
 - 👀 I’m interested in science, DIY, innovation and technology
-- 🌱 I’m currently learning Pythom
-- 💞️ I’m looking to collaborate on beginner Python projects.
+- 👀 I’m currently the CTO at Scientific Dialogue
 - 📫 Reach me at raahim.i@outlook.com
 
 <!---
